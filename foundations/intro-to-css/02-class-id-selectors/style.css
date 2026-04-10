@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd {
     background-color: rgb(247, 176, 187);
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .big {
@@ -9,11 +9,11 @@
 }
 
 #second {
-    color: rgb(14, 14, 254);
+    color: #0000FF;
     font-size: 36px;
 }
 
 #fourth {
-    background-color: rgb(169, 247, 169);
+    background-color: hsl(79 100% 72.4%);
     font-weight: bold;
 }
